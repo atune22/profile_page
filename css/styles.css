@@ -1,8 +1,7 @@
+#pic{
+    width: 400px;
+    height: 300px;
+}
 body{
-    background-color: aqua;
-
-
-img {
-    width: 100px;
-    height: 100px;
+  background-image: url("../assets/bha.jpg");
 }
